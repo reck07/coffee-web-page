@@ -30,12 +30,16 @@ HTML5 – Semantic structure
 CSS3 – Styling and layout design
 
 📂 Project Structure
-coffee-web-page/
-│
-├── index.html        # Main HTML file
-├── style.css         # Styling file
-├── images/           # Coffee images & assets
-└── README.md         # Project documentation
+
+
+            coffee-web-page/
+            │
+            ├── index.html        # Main HTML file
+            ├── style.css         # Styling file
+            ├── images/           # Coffee images & assets
+            └── README.md         # Project documentation
+
+
 
 💻 Installation & Usage
 
