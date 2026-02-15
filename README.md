@@ -15,6 +15,7 @@ This project is ideal for beginners learning HTML, CSS, and web layout design.
 
 ## 📁 Project Structure
 ```
+
 coffee-web-page/
 ├── index.html
 ├── css/
@@ -22,6 +23,7 @@ coffee-web-page/
 ├── images/
 │   └── (coffee images)
 └── README.md
+
 ````
 
 ---
