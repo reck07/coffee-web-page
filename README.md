@@ -19,11 +19,10 @@ This project is ideal for beginners learning HTML, CSS, and web layout design.
 coffee-web-page/
 ├── index.html
 ├── css/
-│   └── style.css
+│ └── style.css
 ├── images/
-│   └── (coffee images)
+│ └── (coffee images)
 └── README.md
-
 ````
 
 ---
