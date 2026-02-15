@@ -33,11 +33,11 @@ CSS3 – Styling and layout design
 
 
             coffee-web-page/
-            │
-            ├── index.html        # Main HTML file
-            ├── style.css         # Styling file
-            ├── images/           # Coffee images & assets
-            └── README.md         # Project documentation
+│
+├── index.html        # Main HTML file
+├── style.css         # Styling file
+├── images/           # Coffee images & assets
+└── README.md         # Project documentation
 
 
 
